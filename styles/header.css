@@ -26,7 +26,7 @@
 .lista-menu {
     display: none;
     position: absolute;
-    top: 10%;
+    top: 8%;
     width: 60vw;        
 }
 
@@ -41,6 +41,7 @@
 }
 .lista-menu__titulo {
     color: var(--preto);
+    font-weight: 700;
 }
 
 .lista-menu__link {
@@ -49,4 +50,8 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
+}
+
+.container__botão {
+    display: none;
 }

@@ -9,7 +9,7 @@
 }
 
 .cabeçalho {
-    background-color: var(--vermelho);
+    background-color: var(--branco);
     display: flex;
     justify-content: space-between;
 }
@@ -37,7 +37,7 @@
 .lista-menu__titulo,
 .lista-menu__itens {
     padding: 1em;
-    background-color: var(--vermelho);
+    background-color: var(--branco);
 }
 .lista-menu__titulo {
     color: var(--preto);
